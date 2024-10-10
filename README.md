@@ -10,5 +10,5 @@ Este repositório contém um template de layout focado em reciclagem, projetado 
 - **Seções Personalizáveis**: Inclui seções para informações sobre reciclagem, dicas e contato.
 - **Cores e Tipografia**: Paleta de cores amigável e legível.
 
-## Vizualize o template [AQUI}
+## Vizualize o template [AQUI]
 
